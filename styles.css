@@ -21,7 +21,7 @@ body {
     padding: 0 30px;
 }
 
-/* Navigation Bar */
+
 .navbar {
     position: fixed;
     top: 0;
@@ -67,7 +67,7 @@ body {
     color: #667eea;
 }
 
-/* Hero Section */
+
 .hero {
     min-height: 100vh;
     display: flex;
@@ -120,7 +120,7 @@ body {
     line-height: 1.7;
 }
 
-/* Section Styles */
+
 section {
     padding: 80px 0;
 }
@@ -147,7 +147,7 @@ section {
     border-radius: 2px;
 }
 
-/* About Section */
+
 .about {
     background-color: #f8f9ff;
 }
@@ -184,7 +184,7 @@ section {
     color: #1E293B;
 }
 
-/* Skills Section */
+
 .skills {
     background-color: #f8f9ff;
 }
@@ -246,7 +246,7 @@ section {
     padding-left: 35px;
 }
 
-/* Experience Section */
+
 .experience-work {
     background-color: #ffffff;
 }
@@ -321,7 +321,7 @@ section {
     background-size: 12px;
 }
 
-/* Projects Section */
+
 .projects {
     background-color: #f8f9ff;
 }
@@ -399,7 +399,7 @@ section {
     transform: translateY(-2px);
 }
 
-/* Certifications Section */
+
 .experience {
     background-color: #f8f9ff;
 }
@@ -454,7 +454,7 @@ section {
     font-size: 0.95rem;
 }
 
-/* Education Section */
+
 .education {
     background-color: #ffffff;
 }
@@ -536,7 +536,7 @@ section {
     border: 2px solid #e0e0ff;
 }
 
-/* Contact Section */
+
 .contact {
     background-color: #F8FAFC;
     text-align: center;
@@ -578,7 +578,7 @@ section {
     box-shadow: 0 8px 20px rgba(102, 126, 234, 0.2);
 }
 
-/* Footer */
+
 .footer {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: rgba(255, 255, 255, 0.9);
@@ -587,7 +587,7 @@ section {
     font-size: 0.9rem;
 }
 
-/* Responsive Design */
+
 @media (max-width: 768px) {
     .nav-menu {
         gap: 20px;
